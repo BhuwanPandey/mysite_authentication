@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/mysite_authentication/static/css/main.31d6cfe0.css",
+    "main.js": "/mysite_authentication/static/js/main.d198f538.js",
+    "index.html": "/mysite_authentication/index.html",
+    "main.d198f538.js.map": "/mysite_authentication/static/js/main.d198f538.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.d198f538.js"
+  ]
+}
