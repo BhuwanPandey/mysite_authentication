@@ -28,6 +28,7 @@ let googley;
   }else{
     content=<FacebookLogin
     // appId="422844516295297"
+    
     appId="425799806145440"
     // autoLoad={true}
     fields="name,email,picture"
